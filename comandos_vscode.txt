@@ -1,0 +1,24 @@
+SHORTCUTS VSCODE
+______________________________
+
+CTRL+B                  cerrar menu lateral VS code
+Alt + ↑ / ↓             ordenar pedasos de codigo
+Ctrl+K+C                comentar lineas de codigo
+Ctrl+K+U                descomentar lineas de codigo
+Shift + Alt + A         comentar codigo
+Ctrl + click derecho    permite crear carpetas basados en un enlace
+Alt + F12               Ver definición
+F12                     Ir a la definición 
+Ctrl + Shift + K        borrar linea de codigo
+Ctrl + Shift + L        buscar todas las ocurrencias de una variable o una etiqueta
+Ctrl +Z                 deshacer
+Ctrl + Shift + Z        rehacer
+ctrl+ñ                  ver terminal
+Ctrl + SHIFT + P        abra panel de SHORTCUTS
+CTRL+W                  cerrar tab
+CTRL + K / CTRL + W     cerrar todas
+CTRL+SHIFT+t            reabrir anterior    
+CTRL+tab                cambiar tab
+CTRL+ALT+↑ / ↓          multi cursores para escribir en multiples lineas
+CTRL+SHIFT+u            Upper case
+CTRL+SHIFT+l            lower case
